@@ -52,9 +52,6 @@ To configure the Authentication System for your environment, follow these steps:
 
    # MongoDB Connection URI
    MONGODB_URI=mongodb://localhost:27017/auth_system
-
-   # JWT Secret Key (for session management)
-   JWT_SECRET=your_secret_key_here
    ```
 
    - `PORT`: Specify the port on which the server will run.
