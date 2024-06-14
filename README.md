@@ -6,8 +6,8 @@ The Authentication System provides secure user authentication functionalities fo
 
 Before using the Authentication System, ensure you have the following prerequisites installed and set up:
 
-1. Node.js: JavaScript runtime environment. Download Node.js
-2. MongoDB: NoSQL database for storing user information. Download MongoDB
+1. Node.js: JavaScript runtime environment.<a href =""> Download Node.js </a>
+2. MongoDB: NoSQL database for storing user information.<a href =""> Download MongoDB </a>
 
 NB: Ensure MongoDB is running locally or accessible via a remote server.
 
