@@ -6,8 +6,8 @@ The Authentication System provides secure user authentication functionalities fo
 
 Before using the Authentication System, ensure you have the following prerequisites installed and set up:
 
-1. Node.js: JavaScript runtime environment.<a href =""> Download Node.js </a>
-2. MongoDB: NoSQL database for storing user information.<a href =""> Download MongoDB </a>
+1. Node.js: JavaScript runtime environment. Download <a href ="https://nodejs.org/en/download/package-manager/current">Node.js </a>
+2. MongoDB: NoSQL database for storing user information. Download <a href ="https://www.mongodb.com/try/download/community">MongoDB </a>
 
 NB: Ensure MongoDB is running locally or accessible via a remote server.
 
@@ -18,8 +18,8 @@ To install the Authentication System, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/swe-robertkibet/NodeJs-Authentication.git
+   cd NodeJs-Authentication
    ```
 
 2. **Install dependencies:**
@@ -69,6 +69,7 @@ To configure the Authentication System for your environment, follow these steps:
 ### Adjusting Default Settings
 
 1. **Rate Limit Configuration:**
+Rate limiting is a technique used in web applications to control the rate of incoming requests from clients or users. It helps prevent abuse, misuse, or excessive load on the server by limiting the number of requests that can be made within a specified time window from the same IP address or client.
 
    The rate limiting configuration is already set in the code:
 
