@@ -24,12 +24,10 @@ To install the Authentication System, follow these steps:
 
 2. **Install dependencies:**
 
-   Install necessary dependencies using npm or yarn.
+   Install necessary dependencies using npm.
 
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 ## Configuration
